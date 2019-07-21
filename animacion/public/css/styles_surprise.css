@@ -1,0 +1,93 @@
+html
+{
+
+	overflow: hidden;
+}
+
+body
+{
+
+	background-image: url("../img/fondo4.jpeg");
+	background-repeat: no-repeat;
+	background-color: #003163;
+	background-position-y: center; 
+	background-position-x: center; 
+
+}
+
+.letra_amaranth
+{
+
+	font-family: 'Amaranth', sans-serif;
+
+}
+
+.font_size_100px
+{
+
+	font-size: 100px;
+
+}
+
+.color_fff
+{
+
+	color: #fff;
+
+}
+
+.text_align_center
+{
+
+	text-align: center;
+
+}
+
+.borde_texto_negro
+{
+
+	-webkit-text-stroke: 2px black;
+
+}
+
+.display_inline_flex
+{
+
+	display: inline-flex;
+
+}
+
+.position_absolute
+{
+
+	position: absolute;
+
+}
+
+.top_0
+{
+	
+	top: 0;
+
+}
+
+.botom_0
+{
+	
+	bottom: 0;
+
+}
+
+.left_0
+{
+	
+	left: 0;
+	
+}    
+
+.right_0
+{
+	
+	right: 0;
+	
+}    
